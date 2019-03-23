@@ -5,11 +5,11 @@
 * echo - Print message in shell.
 * pinfo \<pid\> - Prints information about a given process.
 * setenv \<var\> <value> - To set enviroment variables.
-* unsetenv <var> - To delete enviroment variables.
+* unsetenv \<var\> - To delete enviroment variables.
 * jobs - Displays status of all jobs running(both foreground and background).
-* fg <job_no> - To bring a background process to foreground.
-* bg <job_no> - To take a foreground process to background.
-* kjob <job_no> <signal> - To send a signal to a particular job.
+* fg \<job_no\> - To bring a background process to foreground.
+* bg \<job_no\> - To take a foreground process to background.
+* kjob \<job_no\> \<signal\> - To send a signal to a particular job.
 * overkill - To kill all background processes. 
 * quit - To exit the shell
 
