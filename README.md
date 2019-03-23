@@ -21,6 +21,6 @@
 * Ctrl+c closes the current running process in shell.
 
 To run the shell :-
-* `cd` into the folder.
-* Type `make`.
-* Then tpye `./shell`.
+* `cd` into the folder
+* Type `make`
+* Then type `./shell`
